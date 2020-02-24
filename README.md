@@ -23,9 +23,20 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-This project is a experiment with TDD and Jest
+This project is a experiment with TDD concept and Jest Testing Framework by [Facebook](https://github.com/facebook) 
 
 ## 💻 To run this project
+
+* [Install yarn](https://classic.yarnpkg.com/en/docs/install)
+
+* **And run:** `$ yarn` for install dependencies
+
+* **And run:** `$ yarn dev`
+
+## 💻 To run tests
+
+* **run:** `$ yarn test`
+
 
 
 ## Authors
